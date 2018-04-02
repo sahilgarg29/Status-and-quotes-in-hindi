@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463100870359",
+    "firebase_url": "https://statusquotesinhindi.firebaseio.com",
+    "project_id": "statusquotesinhindi",
+    "storage_bucket": "statusquotesinhindi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463100870359:android:fc18c818f813a3b6",
+        "android_client_info": {
+          "package_name": "com.sahilapps.statusquotesinhindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463100870359-6kbg80pdi7neohh7ivp2e1uoj92nvu33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahilapps.statusquotesinhindi",
+            "certificate_hash": "24bc161e05f1c07fd23d73cc429d455d23927807"
+          }
+        },
+        {
+          "client_id": "463100870359-0516o7vjk9pepapag5u1eu17jdedomie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBebVtYva-6AaIlRKmrQw8oSxgSE4_6tXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463100870359-0516o7vjk9pepapag5u1eu17jdedomie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
